@@ -45,7 +45,7 @@
 &trans      &trans  &trans          &kp UP_ARROW  &trans           &trans       &kp F10  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp ASTERISK  &kp BSPC
 &trans      &trans  &kp LEFT_ARROW  &kp DOWN      &kp RIGHT_ARROW  &trans       &kp F11  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp PLUS      &trans
 &trans      &trans  &trans          &trans        &trans           &trans       &kp F12  &kp N7        &kp N8        &kp N9        &kp MINUS     &trans
-                                    &tog 1        &trans           &kp SPACE    &kp RET  &kp N0        &kp PERIOD
+                                    &tog 0        &trans           &kp SPACE    &kp RET  &kp N0        &kp PERIOD
             >;
         };
 
