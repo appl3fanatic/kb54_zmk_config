@@ -20,11 +20,11 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&kp ESC    &kp N1  &kp N2  &kp N3  &kp N4    &kp N5       &kp N6         &kp N7  &kp N8     &kp N9   &kp N0     &kp CAPS
-&kp TAB    &kp Q   &kp W   &kp F   &kp P     &kp B        &kp J          &kp L   &kp U      &kp Y    &kp SLASH  &kp APOS
-&kp LSHFT  &kp A   &kp R   &kp S   &kp T     &kp G        &kp M          &kp N   &kp E      &kp I    &kp O      &kp RSHIFT
-&kp LCTRL  &kp Z   &kp X   &kp C   &kp D     &kp V        &kp K          &kp H   &kp COMMA  &kp DOT  &kp ENTER  &kp SEMICOLON
-                           &tog 1  &kp LCMD  &kp SPACE    &kp BACKSPACE  &mo 2   &kp RALT
+&kp ESC    &kp N1  &kp N2  &kp N3  &kp N4     &kp N5              &kp N6  &kp N7         &kp N8     &kp N9   &kp N0     &kp CAPS
+&kp TAB    &kp Q   &kp W   &kp F   &kp P      &kp B               &kp J   &kp L          &kp U      &kp Y    &kp SLASH  &kp APOS
+&kp LSHFT  &kp A   &kp R   &kp S   &kp T      &kp G               &kp M   &kp N          &kp E      &kp I    &kp O      &kp RSHIFT
+&kp LCTRL  &kp Z   &kp X   &kp C   &kp D      &kp V               &kp K   &kp H          &kp COMMA  &kp DOT  &kp ENTER  &kp SEMICOLON
+                           &tog 1  &kp SPACE  &kp LEFT_COMMAND    &mo 2   &kp BACKSPACE  &kp RALT
             >;
         };
 
